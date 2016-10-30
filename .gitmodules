@@ -1,0 +1,42 @@
+[submodule "st_maarten_cs_dirt"]
+	path = st_maarten_cs_dirt
+	url = git@github.com:FGMEMBERS-TERRAGIT/st_maarten_cs_dirt.git
+[submodule "st_maarten_cs_golfcourse"]
+	path = st_maarten_cs_golfcourse
+	url = https://github.com/FGMEMBERS-TERRAGIT/st_maarten_cs_golfcourse.git
+[submodule "st_maarten_cs_grassland"]
+	path = st_maarten_cs_grassland
+	url = https://github.com/FGMEMBERS-TERRAGIT/st_maarten_cs_grassland.git
+[submodule "st_maarten_cs_lake"]
+	path = st_maarten_cs_lake
+	url = https://github.com/FGMEMBERS-TERRAGIT/st_maarten_cs_lake.git
+[submodule "st_maarten_cs_lava"]
+	path = st_maarten_cs_lava
+	url = https://github.com/FGMEMBERS-TERRAGIT/st_maarten_cs_lava.git
+[submodule "st_maarten_cs_marsh"]
+	path = st_maarten_cs_marsh
+	url = https://github.com/FGMEMBERS-TERRAGIT/st_maarten_cs_marsh.git
+[submodule "st_maarten_cs_mixedcrop"]
+	path = st_maarten_cs_mixedcrop
+	url = https://github.com/FGMEMBERS-TERRAGIT/st_maarten_cs_mixedcrop.git
+[submodule "st_maarten_cs_openmining"]
+	path = st_maarten_cs_openmining
+	url = https://github.com/FGMEMBERS-TERRAGIT/st_maarten_cs_openmining.git
+[submodule "st_maarten_cs_rock"]
+	path = st_maarten_cs_rock
+	url = https://github.com/FGMEMBERS-TERRAGIT/st_maarten_cs_rock.git
+[submodule "st_maarten_cs_sand"]
+	path = st_maarten_cs_sand
+	url = https://github.com/FGMEMBERS-TERRAGIT/st_maarten_cs_sand.git
+[submodule "st_maarten_cs_scrub"]
+	path = st_maarten_cs_scrub
+	url = https://github.com/FGMEMBERS-TERRAGIT/st_maarten_cs_scrub.git
+[submodule "st_maarten_cs_suburban"]
+	path = st_maarten_cs_suburban
+	url = https://github.com/FGMEMBERS-TERRAGIT/st_maarten_cs_suburban.git
+[submodule "st_maarten_cs_town"]
+	path = st_maarten_cs_town
+	url = https://github.com/FGMEMBERS-TERRAGIT/st_maarten_cs_town.git
+[submodule "st_maarten_cs_mixedforest"]
+	path = st_maarten_cs_mixedforest
+	url = https://github.com/FGMEMBERS-TERRAGIT/st_maarten_cs_mixedforest.git
